@@ -1,0 +1,54 @@
+img{
+    width: 200px;
+    box-shadow: 19px 14px 15px -5px #777777;
+border-radius: 20px;
+}
+
+h1{
+    padding: 30px 0 20px 0 ;
+}
+
+.between{
+    padding: 20px 0 0 0;
+}
+.number{
+    font-size:x-large
+}
+
+.guess{
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    
+}
+
+
+.check{
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+.container-score{
+    text-align: center;
+    border: 1px solid #000;
+}
+
+.message{
+    padding: 20px 0 0 0;
+    margin: 0;
+}
+
+.again{
+    display: none;
+    padding: 10px;
+    margin: 10px;
+}
+
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* 縦方向の中央揃え */
+}
